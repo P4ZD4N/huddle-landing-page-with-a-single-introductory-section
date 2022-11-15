@@ -20,8 +20,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/P4ZD4N/huddle-landing-page-with-a-single-introductory-section](https://github.com/P4ZD4N/huddle-landing-page-with-a-single-introductory-section)
+- Live Site URL: [https://wiktorchuddlelandingpage.vercel.app/](https://wiktorchuddlelandingpage.vercel.app/)
 
 ## My process
 

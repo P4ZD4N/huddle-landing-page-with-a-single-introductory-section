@@ -67,8 +67,8 @@ body{
             color: $violet;
             border-radius: 100px;
             padding: 10px;
-            box-shadow: 0 0 5px 1px black;
             border: none;
+            box-shadow: 5px 1px 32px -4px rgba(66, 68, 90, 1);
             transition: 0.2s background-color, 0.2s color, 0.2s transform;
         }
         &--button:hover{
@@ -160,7 +160,7 @@ body{
             }
             &--button{
                 margin-top: 20px;
-                min-width: 40%;
+                min-width: 50%;
                 padding: 10px;
                 font-size: 1.2em;
             }
@@ -170,5 +170,24 @@ body{
         display: flex;
         justify-content: center;
         padding: 2em 10em;
+    }
+}
+@media (max-width: 450px){
+    .main{
+        &__sectionright{
+            &--h1{
+                font-size: 25px;
+            }
+            &--p{
+                font-size: 15px;
+            }
+            &--button{
+                font-size: 15px;
+                min-width: 70%;
+            }
+        }
+    }
+    .footer{
+        font-size: 0.8em;
     }
 }
